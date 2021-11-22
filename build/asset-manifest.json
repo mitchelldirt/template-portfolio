@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/cleanfolio/static/css/main.827c92e4.chunk.css",
-    "main.js": "/cleanfolio/static/js/main.9c75921c.chunk.js",
-    "main.js.map": "/cleanfolio/static/js/main.9c75921c.chunk.js.map",
-    "runtime-main.js": "/cleanfolio/static/js/runtime-main.e59c9d10.js",
-    "runtime-main.js.map": "/cleanfolio/static/js/runtime-main.e59c9d10.js.map",
-    "static/js/2.72c32b42.chunk.js": "/cleanfolio/static/js/2.72c32b42.chunk.js",
-    "static/js/2.72c32b42.chunk.js.map": "/cleanfolio/static/js/2.72c32b42.chunk.js.map",
-    "index.html": "/cleanfolio/index.html",
-    "static/css/main.827c92e4.chunk.css.map": "/cleanfolio/static/css/main.827c92e4.chunk.css.map",
-    "static/js/2.72c32b42.chunk.js.LICENSE.txt": "/cleanfolio/static/js/2.72c32b42.chunk.js.LICENSE.txt"
+    "main.css": "/mitchellmudd.tech/static/css/main.827c92e4.chunk.css",
+    "main.js": "/mitchellmudd.tech/static/js/main.15c03abf.chunk.js",
+    "main.js.map": "/mitchellmudd.tech/static/js/main.15c03abf.chunk.js.map",
+    "runtime-main.js": "/mitchellmudd.tech/static/js/runtime-main.0fcfae65.js",
+    "runtime-main.js.map": "/mitchellmudd.tech/static/js/runtime-main.0fcfae65.js.map",
+    "static/js/2.870b033a.chunk.js": "/mitchellmudd.tech/static/js/2.870b033a.chunk.js",
+    "static/js/2.870b033a.chunk.js.map": "/mitchellmudd.tech/static/js/2.870b033a.chunk.js.map",
+    "index.html": "/mitchellmudd.tech/index.html",
+    "static/css/main.827c92e4.chunk.css.map": "/mitchellmudd.tech/static/css/main.827c92e4.chunk.css.map",
+    "static/js/2.870b033a.chunk.js.LICENSE.txt": "/mitchellmudd.tech/static/js/2.870b033a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e59c9d10.js",
-    "static/js/2.72c32b42.chunk.js",
+    "static/js/runtime-main.0fcfae65.js",
+    "static/js/2.870b033a.chunk.js",
     "static/css/main.827c92e4.chunk.css",
-    "static/js/main.9c75921c.chunk.js"
+    "static/js/main.15c03abf.chunk.js"
   ]
 }
