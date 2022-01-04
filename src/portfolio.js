@@ -45,6 +45,14 @@ const projects = [
     sourceCode: 'https://github.com/mitchelldirt/dungeon-donuts/',
     livePreview: 'https://mitchelldirt.github.io/Dungeon-Donuts/',
   },
+  {
+    name: 'to.do',
+    description:
+      'This was my first project that felt like a true project. I\'ve seen many variations of the todo list project and sought to go beyond the most basic functionality. Something I learned while doing this is the importance of planning how your app will function ahead of time and keeping your code base clean. I definitely cluttered everything up at the start and spent a good two to three hours reorganizing. After finishing this project I feel way more confident applying types using Typescript.',
+    stack: ['Typescript', 'HTML', 'CSS', 'Webpack'],
+    sourceCode: 'https://github.com/mitchelldirt/todo-list/',
+    livePreview: 'https://mitchelldirt.github.io/todo-list/',
+  },
 ]
 
 const skills = [
@@ -52,14 +60,16 @@ const skills = [
   // if there are no skills, Skills section won't show up
   'HTML',
   'CSS',
-  'JavaScript',
-  'TypeScript',
+  'Javascript',
+  'Typescript',
   'Git',
-  'JIRA',
+  'Jira',
   'Python',
   'NetSuite',
   'Liquid',
-  'Webpack'
+  'Webpack',
+  'Vite',
+  'Regex'
 ]
 
 const contact = {
