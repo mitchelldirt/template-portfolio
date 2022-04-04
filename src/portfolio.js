@@ -22,6 +22,22 @@ const projects = [
   // projects can be added and removed
   // if there are no projects, Projects section won't show up
   {
+    name: 'Windmill Weather',
+    description:
+      'Windmill weather is my first project that deals with the handling of APIs. Originally I only planned to use the OpenWeather API, but found that searching and hoping for a result was clunky. After learning that I implemented the TomTom fuzzy search and auto complete API with the search box package. I also tried parcel and tailwindcss for the first time in a project. This is my personal favorite project on my portfolio :)',
+    stack: ['Typescript', 'HTML', 'TailWindCSS', 'Parcel', 'OpenWeatherAPI', 'TomTomAPI'],
+    sourceCode: 'https://github.com/mitchelldirt/windmill-weather',
+    livePreview: 'https://windmill-weather.vercel.app/',
+  },
+  {
+    name: 'to.do',
+    description:
+      'This was my first project that felt like a true project. I\'ve seen many variations of the todo list project and sought to go beyond the most basic functionality. Something I learned while doing this is the importance of planning how your app will function ahead of time and keeping your code base clean. I definitely cluttered everything up at the start and spent a good two to three hours reorganizing. After finishing this project I feel way more confident applying types using Typescript.',
+    stack: ['Typescript', 'HTML', 'CSS', 'Webpack'],
+    sourceCode: 'https://github.com/mitchelldirt/todo-list/',
+    livePreview: 'https://mitchelldirt.github.io/todo-list/',
+  },
+  {
     name: 'Calculator',
     description:
       'The calculator project was the last project in the javascript basics portion the The Odin Project. I used plain HTML, CSS, and javascript to create the entire project. Getting all of the functions to play nice with each other was definitely the hardest part. I felt the most satisfaction from this project after setting up the keyboard controls and getting the styles to work correctly!',
@@ -36,23 +52,7 @@ const projects = [
     stack: ['Javascript', 'HTML', 'CSS'],
     sourceCode: 'https://github.com/mitchelldirt/tic-tac-toe',
     livePreview: 'https://mitchelldirt.github.io/tic-tac-toe/',
-  },
-  {
-    name: 'Dungeon Donuts',
-    description:
-      'This is the first project that I\'ve done with a bundler. I used web pack to server side render all of the main content for this project. My biggest challenge with building this page was figuring out the best way to build and import my web components. I figured out that you can import pictures into the components rather than the index.js file. I\'m glad I built the site statically first and then ported it over to Javascript afterwards.',
-    stack: ['Javascript', 'HTML', 'CSS', 'Webpack'],
-    sourceCode: 'https://github.com/mitchelldirt/dungeon-donuts/',
-    livePreview: 'https://mitchelldirt.github.io/Dungeon-Donuts/',
-  },
-  {
-    name: 'to.do',
-    description:
-      'This was my first project that felt like a true project. I\'ve seen many variations of the todo list project and sought to go beyond the most basic functionality. Something I learned while doing this is the importance of planning how your app will function ahead of time and keeping your code base clean. I definitely cluttered everything up at the start and spent a good two to three hours reorganizing. After finishing this project I feel way more confident applying types using Typescript.',
-    stack: ['Typescript', 'HTML', 'CSS', 'Webpack'],
-    sourceCode: 'https://github.com/mitchelldirt/todo-list/',
-    livePreview: 'https://mitchelldirt.github.io/todo-list/',
-  },
+  }
 ]
 
 const skills = [
