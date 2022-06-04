@@ -69,7 +69,12 @@ const skills = [
   'Liquid',
   'Webpack',
   'Vite',
-  'Regex'
+  'Regex',
+  'Jest',
+  'Parcel',
+  'REST API',
+  'TailWindCSS',
+  'Babel'
 ]
 
 const contact = {
