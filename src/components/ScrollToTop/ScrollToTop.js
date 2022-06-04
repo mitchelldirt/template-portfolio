@@ -1,3 +1,4 @@
+import ReactDOM from 'react-dom'
 import React, { useEffect, useState } from 'react'
 import ArrowUpwardIcon from '@material-ui/icons/ArrowUpward'
 import './ScrollToTop.css'

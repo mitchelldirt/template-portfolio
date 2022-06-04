@@ -1,3 +1,5 @@
+import React from 'react'
+import ReactDOM from 'react-dom'
 import { contact } from '../../portfolio'
 import './Contact.css'
 

@@ -1,3 +1,5 @@
+import React from 'react'
+import ReactDOM from 'react-dom'
 import uniqid from 'uniqid'
 import { skills } from '../../portfolio'
 import './Skills.css'
